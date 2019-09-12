@@ -1,13 +1,9 @@
 # 3d-slider
 
-Simple 3D Slider for beginner: 
+Simple and amazing 3D Slider for beginner: 
 
 ##### Screen Short:
 
-![alt text](https://drive.google.com/file/d/1_vkZ2iMskVcbZtaXn2ReAoRPXpfktMwU/view?usp=sharing)
+![alt text](https://encodable.com/uploaddemo/files/demo/Screenshot_from_2019-09-12_15-08-04.png)
 
-<a href="https://codepen.io/pratikhmehta/pen/dLrxew">Demo</a>
-
-# 3d-slider
-
-TODO: Amazing 3D Slider for beginner.
+<a href="https://codepen.io/pratikhmehta/pen/dLrxew" target="_blank">Demo</a>
